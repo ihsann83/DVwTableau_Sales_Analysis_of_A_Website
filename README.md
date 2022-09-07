@@ -1,12 +1,12 @@
 # DVwTableau_Sales_Analysis_of_A_Website
 
-# Data Visualization with Tableau
+Data Visualization with Tableau
 
-# Sales Analysis of a Website with Tableau
+Sales Analysis of a Website with Tableau
 
 # Instructions
 
-In this project, you will be working on the Sales Analysis of a Website project using Tableau.
+In this project, I worked on the Sales Analysis of a Website project using Tableau.
 
 Data Preparation
 
